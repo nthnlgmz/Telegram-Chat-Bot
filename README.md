@@ -1,1 +1,1 @@
-try it here: t.me/testbotusinggroqapi_bot
+try it here: [NathGPT](t.me/testbotusinggroqapi_bot)
